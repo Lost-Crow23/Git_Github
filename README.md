@@ -7,6 +7,8 @@ changes to source code, collaborate with others and lastly manage multiple versi
 where each developer maintains a local copy of the codebase, which can be combined with other copies. This brings more of a flexible workflows
 and simple collaboration between developers, with the changes being made independently or together.
 
+<img width="827" alt="Github_Git_Diagram" src="https://user-images.githubusercontent.com/126012715/232328440-5927bea8-1134-4d66-af76-479df058506a.png">
+
 <h3>What is GitHub ?</h3>
 
 A web-based platform that provides hosting Git repositories, as well as tools, project management and software development workflows. It has become
